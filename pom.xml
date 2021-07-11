@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>SampleWebApplication</finalName>
+    <finalName>dilip</finalName>
   </build>
 </project>
